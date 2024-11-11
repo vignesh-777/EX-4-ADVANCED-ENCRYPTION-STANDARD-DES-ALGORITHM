@@ -98,7 +98,8 @@ return 0;
 
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/638345f5-a34e-4717-b653-c66cc6da4e2d)
+![Screenshot 2024-11-11 084104](https://github.com/user-attachments/assets/29162ba6-88d7-4c65-bdd1-19afd4e4402a)
+
 
 ## RESULT: 
 The execution program is successfully executed.
